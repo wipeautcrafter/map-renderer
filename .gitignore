@@ -1,9 +1,11 @@
 # binary
 *.pbf
+*.pmtiles
 
 # data
 data/fonts/
-*.pmtiles
 
 # executables
 tilemaker/tilemaker
+tilemaker/coastline
+tilemaker/landcover

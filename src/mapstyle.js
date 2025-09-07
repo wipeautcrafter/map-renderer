@@ -1,6 +1,7 @@
 const mapStyle = {
   version: 8,
   name: 'OSM Liberty',
+  projection: { type: 'mercator' },
   metadata: {
     'maputnik:license': 'https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md',
     'maputnik:renderer': 'mbgljs',
